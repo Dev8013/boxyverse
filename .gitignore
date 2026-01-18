@@ -1,0 +1,19 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Oo]bj/
+UserSettings/
+
+# IDE
+.vs/
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+# Crash and other
+sysinfo.txt
